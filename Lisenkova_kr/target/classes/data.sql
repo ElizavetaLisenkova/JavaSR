@@ -1,0 +1,8 @@
+--
+-- INSERT  INTO user (create_date, update_date, login, last_name, first_name, patronymic, birth_date)
+-- VALUES ('29_02_2021', null, 'login1', 'lastName1', 'firstName1', 'patronymic1', '01-01-2000'),
+-- ('login2', 'lastName2', 'firstName2', 'patronymic2', '02-02-2000');
+--
+-- INSERT  INTO task (create_date, update_date, name, description, completion_date, is_done, category, user)
+-- VALUES ('29_02_2021', null, 'taskname1', 'blablabla', null, false, , ),
+-- ;
